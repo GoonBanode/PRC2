@@ -1,1 +1,1 @@
-# PRC2
+print("Hello")
